@@ -15,6 +15,8 @@
  */
 
 import Foundation
+import KituraContracts
+import SwiftyRequest
 
 /// An extension to Kitura RequestErrors with additional error codes specifically for the client.
 public extension RequestError {

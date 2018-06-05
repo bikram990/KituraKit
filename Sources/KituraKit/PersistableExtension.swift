@@ -15,6 +15,7 @@
 // */
 //
 //import Foundation
+//import KituraContracts
 //
 //// CRUD API - type safe routing
 //extension Persistable {
